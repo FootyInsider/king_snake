@@ -1,0 +1,15 @@
+<i class="fi fi-bs-paper-plane"></i> - message
+<i class="fi fi-rr-phone-flip"></i> - phone
+<i class="fi fi-rs-marker"></i> - location
+<i class="fi fi-brands-facebook"></i> - facebook
+<i class="fi fi-brands-instagram"></i> - ig
+<i class="fi fi-brands-twitter-alt"></i>
+<i class="fi fi-ts-circle-user"></i>
+<i class="fi fi-rr-bed"></i>
+<i class="fi fi-rr-bath"></i>
+<i class="fi fi-rs-house-chimney"></i>
+<i class="fi fi-rs-building"></i>
+<i class="fi fi-rr-industry-windows"></i>
+<i class="fi fi-rr-land-layers"></i>
+<i class="fi fi-rr-europe-flag"></i>
+<i class="fi fi-rr-land-layers"></i>

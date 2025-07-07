@@ -1,0 +1,173 @@
+.header2221{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.dutt{
+    font-size: 13px;
+    text-align: center;
+}
+
+.adele{
+    font-size: 12px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.coming-in{
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.where-the-racks-at{
+    height: 100vh;
+    background-image: url(AT/slide1.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    align-items: flex-end;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    justify-content: center;
+}
+
+.overlayium{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.201), rgb(0, 0, 0));
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+
+.skin{
+    position: absolute;
+    text-align: center;
+}
+
+.ctrl{
+    font-size: 45px;
+}
+
+.i-think-we-deep{
+    font-size: 14px;
+}
+
+.mario{
+    height: 50px;
+}
+
+.e-o-c, .final-l{
+    text-align: center;
+}
+
+.maria{
+    font-size: 60px;
+}
+
+.on-the-low{
+    height: 100vh;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.trap-anthem{
+    position: relative;
+}
+
+.my-shawty{
+    position: absolute;
+    top: 40%;
+    left: 4%;
+    font-size: 14px;
+}
+
+.stake-l{
+    height: 60vh;
+    background-image: url(AT/house.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.ovrlay{
+    background-color: rgba(0, 0, 0, 0.786);
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+
+#kmnow{
+    font-size: 11px;
+    color: rgb(255, 255, 255);
+}
+
+.broke-jgc{
+    font-size: 14px;
+}
+
+.hell-jw{
+    text-align: center;
+}
+
+.take-my-life{
+    font-size: 35px;
+}
+
+.sex-for-breakfast{
+    font-size: 12px;
+}
+
+.outda34rth{
+    height: 300px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    background-image: url(AT/blogs.jpg);
+    background-position: center;
+}
+
+.evolution{
+    position: absolute;
+    background-color: rgba(165, 42, 42, 0.903);
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+.stuck-kc{
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.like-in{
+    height: 20vh;
+}
+
+.jamal{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    /* height: 400px; */
+}
+
+.jamal p{
+    font-size: 14px;
+}
+
+.oneam{
+    background-image: linear-gradient(to right, brown 70%, white 30%);
+}
